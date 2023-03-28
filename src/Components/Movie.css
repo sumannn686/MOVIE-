@@ -1,0 +1,12 @@
+.movie{
+    text-align: center;
+    background-color:#f7bea7 ;
+    border: 1px solid gray;
+    padding: 3px;
+    border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    padding-top: 10px;
+
+}
